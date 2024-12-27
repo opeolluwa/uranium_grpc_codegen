@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-option go_package = "bookmarks/grpc/codegen/authentication";
-
 
 package authentication;
 

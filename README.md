@@ -1,4 +1,4 @@
-# Bookmark gRPC codegen
+# Uranium gRPC codegen
 
 - [Description](#description)
 - [Getting Started](#getting-started)

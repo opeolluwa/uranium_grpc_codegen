@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-option go_package = "bookmarks/grpc/codegen/health_check";
 
 package health_check;
 
